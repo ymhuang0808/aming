@@ -1,5 +1,6 @@
 <?php
 	echo 'index';
-	echo 'index2';
+	echo 'iiiindex2';
 	echo 'indexa1ttt';
+	//qqqq
 	echo 'indexa2';
